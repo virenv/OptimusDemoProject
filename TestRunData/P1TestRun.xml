@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WebDriverWrapperTests" verbose="1">
+	<test name="WebDriverTests">
+		<classes>
+<!-- 			<class name="test.java.ToolsQA.DriverWrapperTests.ObjectRepository" /> -->
+<!-- 			<class name="test.java.ToolsQA.DriverWrapperTests.PageObjectModel" />			 -->
+			    <class name="ToolsQA.DemoQaLogin" />
+<!-- 			<class name="test.java.ToolsQA.DriverWrapperTests.ActionBasedModel" /> -->
+<!-- 			<class name="test.java.ToolsQA.DriverWrapperTests.ExtendReport" /> -->
+<!-- 			<class name="test.java.ToolsQA.DriverWrapperTests.BrokenLinkTests" /> -->
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WebDriverWrapperTests" verbose="1" >
+  <test name="WebDriverTests" >
+    <classes>
+<!--        <class name="test.java.ToolsQA.DriverWrapperTests.DriverTests" /> -->
+<!--        <class name="test.java.ToolsQA.DriverWrapperTests.TableElementTests" /> -->
+<!--        <class name="test.java.ToolsQA.DriverWrapperTests.WebElementWrapperTests" /> -->
+    </classes>
+  </test>
+</suite>

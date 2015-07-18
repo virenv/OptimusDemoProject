@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DemoTests" verbose="1">
+	<test name="DemoTest">
+		<classes>
+			<!-- <class name="test.java.ToolsQA.DriverWrapperTests.DriverTests" /> -->
+			<class name="test.java.ToolsQA.DriverWrapperTests.SimpleTest" />
+		</classes>
+	</test>
+</suite>

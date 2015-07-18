@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="P2 Tests" verbose="1">
+  <test name="P2 Test Run" >
+    <classes>
+<!--        <class name="Tests.HomePageTests.HomePageTests" /> -->
+<!--        <class name="Tests.LoginTests.LoginTests"/> -->
+<!--        <class name="test.java.ToolsQA.DriverWrapperTests.TableElementTests" /> -->
+<!-- 			<class name="test.java.ToolsQA.DriverWrapperTests.PageObjectModel" /> -->
+<!-- 			<class name="test.java.ToolsQA.DriverWrapperTests.ObjectRepository" /> -->
+<!-- 			<class name="test.java.ToolsQA.DriverWrapperTests.ExtendReport" /> -->
+			<class name="test.java.ToolsQA.DriverWrapperTests.BrokenLinkTests" />
+    </classes>
+  </test>
+</suite>
